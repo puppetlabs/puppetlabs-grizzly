@@ -1,6 +1,11 @@
-This module is used to deploy a multi-node installation of OpenStack Grizzly.
-
 #puppetlabs-grizzly
+
+This module is used to deploy a multi-node installation of OpenStack Grizzly. This repository
+is no longer active. Please submit pull requests and issues to the
+[puppetlabs-openstack](https://github.com/puppetlabs/puppetlabs-openstack) repository. The
+stable/grizzly branch is where all new updates to this code-base will happen. Please note
+that Grizzly has be deprecated in favor of the Havana branch, which includes many new features
+and a more robust deployment system.
 
 ####Table of Contents
 
